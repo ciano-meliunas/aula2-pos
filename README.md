@@ -31,3 +31,8 @@ Testes realizados para listagem geral, filtragem por tipo, data e cálculo de sa
 ## 4. Testes de Deleção (DELETE)
 Teste de exclusão de registros via ID.
 ![Delete](assets/delete.jpeg)
+
+## Verificação no Banco de Dados
+Integração com o MongoDB Atlas está funcionando corretamente, abaixo é possível visualizar o documento salvo na coleção `Movimentacoes` através do Data Explorer do Atlas.
+
+![Banco de Dados](assets/banco.jpeg)
